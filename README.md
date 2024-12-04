@@ -1,4 +1,4 @@
 # Hello
 This is my first Repository
 <br>
-Author: Ritik Pal
+Author: Ritik Pal (Jii)
